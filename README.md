@@ -7,7 +7,7 @@ I chose these two algorithms because it can give us insight in how similar algor
 In the code the are parts that are commented out which are remains from trying different probelms in the assignment.
 
 # Execution
-To run this algorithm, all that is needed is to compile all java files and run the Main.java file.
+To run this program, all that is needed is to compile all java files and run the Main.java file.
 
 Dijkstras algorithm can be found in Main.java and the Brute Force in BruteForce.java.
 
