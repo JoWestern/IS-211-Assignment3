@@ -11,9 +11,13 @@ Firstly to run this algorithm, all that is needed is to compile all java files a
 
 # Output
 Dijkstras algorithm:
-Starting with Timisoara
+
+Starting with Timisoara.
+
 Looking at Timisoara. Distance from source: 0. Adjacent nodes: Arad. Lugoj. 
+
 Looking at Lugoj. Distance from source: 111. Adjacent nodes: Mehadia. Timisoara. 
+
 Looking at Arad. Distance from source: 118. Adjacent nodes: Zerind. Timisoara. Sibiu. 
 Looking at Mehadia. Distance from source: 181. Adjacent nodes: Drobeta. Lugoj. 
 Looking at Zerind. Distance from source: 193. Adjacent nodes: Arad. Oradea. 
