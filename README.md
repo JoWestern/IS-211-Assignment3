@@ -10,6 +10,7 @@ In the code the are parts that are commented out which are remains from trying d
 Firstly to run this algorithm, all that is needed is to compile all java files and run the Main.java file.
 
 # Output
+--------------------------------------------------------------------------
 Dijkstras algorithm:
 
 Starting with Timisoara.
@@ -56,6 +57,7 @@ Looking at Neamt. Distance from source: 942. Adjacent nodes: Iasi.
 
 Target found. Path to Bucharest with length: 536. Timisoara --> Arad --> Sibiu --> Rimmicu Vilea --> Pitesti --> Bucharest.
 
+--------------------------------------------------------------------------
 Brute force algorithm:
 
 Starting with Timisoara
