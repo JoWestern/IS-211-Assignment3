@@ -4,7 +4,7 @@ For this assignment I have chosen to compare Dijkstras algorithm with a more bru
 
 I chose these two algorithms because it can give us insight in how similar algortihms can differ in runtime and precision. I chose the brute force algorithm after a lot of trial and error with the Lin-Kernighan algorithm. After spending a lot of time with it I realized I would not be able to finish the algorithm in time of the assignemnts due date. So I chose this one to be the comparison to Dijkstra. It is not the most optimal but it still gives room for analysis.
 
-In the code the are parts that are commented out which are remains from trying different probelms in the assignment.
+In the code there are parts that are commented out which are remains from trying different probelms in the assignment.
 
 # Execution
 To run this program, all that is needed is to compile all java files and run the Main.java file.
